@@ -1,0 +1,15 @@
+C:\Users\jamar\repos\NewMethodExcercise\NewMethodExcercise\bin\Debug\net6.0\NewMethodExcercise.exe
+C:\Users\jamar\repos\NewMethodExcercise\NewMethodExcercise\bin\Debug\net6.0\NewMethodExcercise.deps.json
+C:\Users\jamar\repos\NewMethodExcercise\NewMethodExcercise\bin\Debug\net6.0\NewMethodExcercise.runtimeconfig.json
+C:\Users\jamar\repos\NewMethodExcercise\NewMethodExcercise\bin\Debug\net6.0\NewMethodExcercise.dll
+C:\Users\jamar\repos\NewMethodExcercise\NewMethodExcercise\bin\Debug\net6.0\ref\NewMethodExcercise.dll
+C:\Users\jamar\repos\NewMethodExcercise\NewMethodExcercise\bin\Debug\net6.0\NewMethodExcercise.pdb
+C:\Users\jamar\repos\NewMethodExcercise\NewMethodExcercise\obj\Debug\net6.0\NewMethodExcercise.csproj.AssemblyReference.cache
+C:\Users\jamar\repos\NewMethodExcercise\NewMethodExcercise\obj\Debug\net6.0\NewMethodExcercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jamar\repos\NewMethodExcercise\NewMethodExcercise\obj\Debug\net6.0\NewMethodExcercise.AssemblyInfoInputs.cache
+C:\Users\jamar\repos\NewMethodExcercise\NewMethodExcercise\obj\Debug\net6.0\NewMethodExcercise.AssemblyInfo.cs
+C:\Users\jamar\repos\NewMethodExcercise\NewMethodExcercise\obj\Debug\net6.0\NewMethodExcercise.csproj.CoreCompileInputs.cache
+C:\Users\jamar\repos\NewMethodExcercise\NewMethodExcercise\obj\Debug\net6.0\NewMethodExcercise.dll
+C:\Users\jamar\repos\NewMethodExcercise\NewMethodExcercise\obj\Debug\net6.0\ref\NewMethodExcercise.dll
+C:\Users\jamar\repos\NewMethodExcercise\NewMethodExcercise\obj\Debug\net6.0\NewMethodExcercise.pdb
+C:\Users\jamar\repos\NewMethodExcercise\NewMethodExcercise\obj\Debug\net6.0\NewMethodExcercise.genruntimeconfig.cache
